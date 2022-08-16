@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sup fam
+title: Home is where the <3 is.
 email: thehateofmenwillpass@gmail.com
 description: Welcome to the only website you will ever need. You're welcome.
 instagram_username: new_true_blue
